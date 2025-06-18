@@ -10,8 +10,9 @@ How to Contact PC Matic Customer Service
 
 PC Matic is a well-known company that makes antivirus and cybersecurity software. They offer a variety of products that help people keep their personal and business devices safe. If you're a new user who needs help setting up your PC Matic account or an existing customer who is having technical problems, it's important to know how to get in touch with PC Matic customer service so you can get help quickly and keep your computer safe.
 
-.. image:: click-download.png
-   :alt: My Project Logo
+
+.. image:: click-service.png
+   :alt: pc matic customer service
    :width: 400px
    :align: center
    :target: https://accuratelivechat.com
